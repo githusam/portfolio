@@ -17,7 +17,8 @@ const About = () => {
                         <p>Hi. I'm Husam, nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
-                        <p>I am passionate about deez nuts</p>
+                        <p>
+                        I'm focused on specializing in full-stack development, covering both front-end and backend aspects of application creation. I'm proficient in web languages like HTML, CSS, and JavaScript, and I also have experience with APIs, SQL, and databases. My goal is to become a well-rounded developer who can create complete and seamless applications, constantly growing and learning in the field of software engineering.                        </p>
                     </div>
                 </div>
         </div>
