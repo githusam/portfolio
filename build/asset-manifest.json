@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.678d9582.css",
+    "main.js": "/portfolio/static/js/main.d9d68b7f.js",
+    "static/media/weatherapp.png": "/portfolio/static/media/weatherapp.bfb36a08bc861ee55a42.png",
+    "static/media/SoftwareResume2023.pdf": "/portfolio/static/media/SoftwareResume2023.3e793fce8ca7c66732dc.pdf",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/bookstoreapp.png": "/portfolio/static/media/bookstoreapp.25c402c4e1fdf276adbb.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.32dae7af26c4393f3808.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.dfc24ce2912507cadee2.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/java.png": "/portfolio/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/portfolio/index.html",
+    "main.678d9582.css.map": "/portfolio/static/css/main.678d9582.css.map",
+    "main.d9d68b7f.js.map": "/portfolio/static/js/main.d9d68b7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.678d9582.css",
+    "static/js/main.d9d68b7f.js"
+  ]
+}
