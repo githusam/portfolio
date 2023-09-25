@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.678d9582.css",
-    "main.js": "/static/js/main.d312fcca.js",
+    "main.js": "/static/js/main.a518ffba.js",
     "static/media/weatherapp.png": "/static/media/weatherapp.bfb36a08bc861ee55a42.png",
     "static/media/SoftwareResume2023.pdf": "/static/media/SoftwareResume2023.3e793fce8ca7c66732dc.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -14,10 +14,10 @@
     "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
     "main.678d9582.css.map": "/static/css/main.678d9582.css.map",
-    "main.d312fcca.js.map": "/static/js/main.d312fcca.js.map"
+    "main.a518ffba.js.map": "/static/js/main.a518ffba.js.map"
   },
   "entrypoints": [
     "static/css/main.678d9582.css",
-    "static/js/main.d312fcca.js"
+    "static/js/main.a518ffba.js"
   ]
 }
