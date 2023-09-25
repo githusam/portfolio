@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.678d9582.css",
-    "main.js": "/static/js/main.a518ffba.js",
+    "main.css": "/static/css/main.f4006497.css",
+    "main.js": "/static/js/main.72f74c39.js",
     "static/media/weatherapp.png": "/static/media/weatherapp.bfb36a08bc861ee55a42.png",
-    "static/media/SoftwareResume2023.pdf": "/static/media/SoftwareResume2023.3e793fce8ca7c66732dc.pdf",
+    "static/media/SoftwareResume2023-24.pdf": "/static/media/SoftwareResume2023-24.acac624201ae5864c5d7.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/bookstoreapp.png": "/static/media/bookstoreapp.25c402c4e1fdf276adbb.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -13,11 +13,11 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
-    "main.678d9582.css.map": "/static/css/main.678d9582.css.map",
-    "main.a518ffba.js.map": "/static/js/main.a518ffba.js.map"
+    "main.f4006497.css.map": "/static/css/main.f4006497.css.map",
+    "main.72f74c39.js.map": "/static/js/main.72f74c39.js.map"
   },
   "entrypoints": [
-    "static/css/main.678d9582.css",
-    "static/js/main.a518ffba.js"
+    "static/css/main.f4006497.css",
+    "static/js/main.72f74c39.js"
   ]
 }
