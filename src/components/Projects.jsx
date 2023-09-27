@@ -1,6 +1,7 @@
 import React from "react";
 import weatherapp from "../assets/weatherapp.png";
 import bookstoreapp from "../assets/bookstoreapp.png";
+import portfolio from "../assets/portfolio.png";
 
 const Projects = () => {
   return (
@@ -25,7 +26,7 @@ const Projects = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl text-center font-bold text-white tracking-wider">
+              <span className="text-2xl text-center font-bold text-white bg-black tracking-wider px-4 py-2 rounded-lg">
                 React JS Weather
               </span>
               <div className="py-8 text-center">
@@ -49,7 +50,7 @@ const Projects = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl text-center font-bold text-white tracking-wider">
+              <span className="text-2xl text-center font-bold text-white bg-black tracking-wider px-4 py-2 rounded-lg">
                 Java Bookstore App
               </span>
               <div className="py-8 text-center">
@@ -59,6 +60,30 @@ const Projects = () => {
                   </button> */}
                 </a>
                 <a href="https://github.com/githusam/BookStoreApp">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0097b2] text-white font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+                    {/* Grid items */}
+                    <div
+            style={{ backgroundImage: `url(${portfolio})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl text-center font-bold text-white tracking-wider">
+                React Portfolio
+              </span>
+              <div className="py-8 text-center">
+                <a href="/">
+                  {/* <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0097b2] text-white font-bold text-lg">
+                    Demo
+                  </button> */}
+                </a>
+                <a href="https://github.com/githusam/portfolio">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0097b2] text-white font-bold text-lg">
                     Code
                   </button>
