@@ -4,7 +4,7 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import logo from "../assets/logo.png";
 import { Link } from "react-scroll";
-import Resume from "../assets/SoftwareResume2023-24.pdf";
+import Resume from "../assets/Husam_Kassab_Resume.pdf";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -119,9 +119,6 @@ const Navbar = () => {
               target="_blank"
             >
               Email <HiOutlineMail size={30} />
-
-            
-
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
