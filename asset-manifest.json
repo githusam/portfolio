@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.8329e938.css",
-    "main.js": "/static/js/main.d9bd64cd.js",
+    "main.js": "/static/js/main.2bc60b6f.js",
     "static/media/weatherapp.png": "/static/media/weatherapp.bfb36a08bc861ee55a42.png",
-    "static/media/SoftwareResume2023-24.pdf": "/static/media/SoftwareResume2023-24.acac624201ae5864c5d7.pdf",
+    "static/media/Husam_Kassab_Resume.pdf": "/static/media/Husam_Kassab_Resume.e8c54f959a4cadc8ea66.pdf",
     "static/media/portfolio.png": "/static/media/portfolio.4498d7be26601f487de2.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/bookstoreapp.png": "/static/media/bookstoreapp.25c402c4e1fdf276adbb.png",
@@ -15,10 +15,10 @@
     "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
     "main.8329e938.css.map": "/static/css/main.8329e938.css.map",
-    "main.d9bd64cd.js.map": "/static/js/main.d9bd64cd.js.map"
+    "main.2bc60b6f.js.map": "/static/js/main.2bc60b6f.js.map"
   },
   "entrypoints": [
     "static/css/main.8329e938.css",
-    "static/js/main.d9bd64cd.js"
+    "static/js/main.2bc60b6f.js"
   ]
 }
