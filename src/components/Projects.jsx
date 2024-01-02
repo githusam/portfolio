@@ -1,7 +1,7 @@
 import React from "react";
 import weatherapp from "../assets/weatherapp.png";
 import bookstoreapp from "../assets/bookstoreapp.png";
-import portfolio from "../assets/portfolio.png";
+import tmusic from "../assets/tmusic.png";
 
 const Projects = () => {
   return (
@@ -43,8 +43,8 @@ const Projects = () => {
               </div>
             </div>
           </div>
-                    {/* Grid items */}
-                    <div
+          {/* Grid items */}
+          <div
             style={{ backgroundImage: `url(${bookstoreapp})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -67,23 +67,25 @@ const Projects = () => {
               </div>
             </div>
           </div>
-                    {/* Grid items */}
-                    <div
-            style={{ backgroundImage: `url(${portfolio})` }}
+          {/* Grid items */}
+          <div
+            style={{ backgroundImage: `url(${tmusic})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 ">
               <span className="text-2xl text-center font-bold text-white tracking-wider">
-                React Portfolio
+                TMUsic
               </span>
               <div className="py-8 text-center">
-                <a href="/">
-                  {/* <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0097b2] text-white font-bold text-lg">
-                    Demo
-                  </button> */}
+                <a href="tmusic.dev">
+                  {
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0097b2] text-white font-bold text-lg">
+                      Website
+                    </button>
+                  }
                 </a>
-                <a href="https://github.com/githusam/portfolio">
+                <a href="https://github.com/gopakistan/tmu-music">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0097b2] text-white font-bold text-lg">
                     Code
                   </button>
