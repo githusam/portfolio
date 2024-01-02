@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.8329e938.css",
-    "main.js": "/static/js/main.2bc60b6f.js",
+    "main.css": "/static/css/main.764a76a4.css",
+    "main.js": "/static/js/main.5cb7040a.js",
     "static/media/weatherapp.png": "/static/media/weatherapp.bfb36a08bc861ee55a42.png",
-    "static/media/Husam_Kassab_Resume.pdf": "/static/media/Husam_Kassab_Resume.e8c54f959a4cadc8ea66.pdf",
-    "static/media/portfolio.png": "/static/media/portfolio.4498d7be26601f487de2.png",
+    "static/media/HusamKassabResume2024.pdf": "/static/media/HusamKassabResume2024.20c8c1fd4986ca278fa4.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/php.png": "/static/media/php.adf2e2850a346aa6895c.png",
     "static/media/bookstoreapp.png": "/static/media/bookstoreapp.25c402c4e1fdf276adbb.png",
-    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/htmlcss.png": "/static/media/htmlcss.59888fca6d3263bd0b50.png",
+    "static/media/tmusic.png": "/static/media/tmusic.d4e80200fa65f7b58cf3.png",
     "static/media/logo.png": "/static/media/logo.32dae7af26c4393f3808.png",
     "static/media/sql.png": "/static/media/sql.dfc24ce2912507cadee2.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
-    "main.8329e938.css.map": "/static/css/main.8329e938.css.map",
-    "main.2bc60b6f.js.map": "/static/js/main.2bc60b6f.js.map"
+    "main.764a76a4.css.map": "/static/css/main.764a76a4.css.map",
+    "main.5cb7040a.js.map": "/static/js/main.5cb7040a.js.map"
   },
   "entrypoints": [
-    "static/css/main.8329e938.css",
-    "static/js/main.2bc60b6f.js"
+    "static/css/main.764a76a4.css",
+    "static/js/main.5cb7040a.js"
   ]
 }
