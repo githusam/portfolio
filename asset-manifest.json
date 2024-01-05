@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.764a76a4.css",
-    "main.js": "/static/js/main.8222df90.js",
+    "main.js": "/static/js/main.12c87a7c.js",
     "static/media/weatherapp.png": "/static/media/weatherapp.bfb36a08bc861ee55a42.png",
     "static/media/HusamKassabCV.pdf": "/static/media/HusamKassabCV.898723bac7871397ea95.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -15,10 +15,10 @@
     "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
     "main.764a76a4.css.map": "/static/css/main.764a76a4.css.map",
-    "main.8222df90.js.map": "/static/js/main.8222df90.js.map"
+    "main.12c87a7c.js.map": "/static/js/main.12c87a7c.js.map"
   },
   "entrypoints": [
     "static/css/main.764a76a4.css",
-    "static/js/main.8222df90.js"
+    "static/js/main.12c87a7c.js"
   ]
 }
