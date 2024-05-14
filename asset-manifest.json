@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.764a76a4.css",
-    "main.js": "/static/js/main.252dcfe4.js",
+    "main.js": "/static/js/main.08a4790a.js",
     "static/media/weatherapp.png": "/static/media/weatherapp.bfb36a08bc861ee55a42.png",
-    "static/media/HusamKassabCV.pdf": "/static/media/HusamKassabCV.ef112a936883490ba5c7.pdf",
+    "static/media/Husam_Kassab_Resume.pdf": "/static/media/Husam_Kassab_Resume.76dad77a35ddf108f665.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/php.png": "/static/media/php.adf2e2850a346aa6895c.png",
-    "static/media/bookstoreapp.png": "/static/media/bookstoreapp.25c402c4e1fdf276adbb.png",
+    "static/media/GMS.png": "/static/media/GMS.26cc1002f6cd25846d35.png",
     "static/media/htmlcss.png": "/static/media/htmlcss.59888fca6d3263bd0b50.png",
     "static/media/logo.png": "/static/media/logo.32dae7af26c4393f3808.png",
     "static/media/sql.png": "/static/media/sql.dfc24ce2912507cadee2.png",
@@ -14,10 +14,10 @@
     "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
     "main.764a76a4.css.map": "/static/css/main.764a76a4.css.map",
-    "main.252dcfe4.js.map": "/static/js/main.252dcfe4.js.map"
+    "main.08a4790a.js.map": "/static/js/main.08a4790a.js.map"
   },
   "entrypoints": [
     "static/css/main.764a76a4.css",
-    "static/js/main.252dcfe4.js"
+    "static/js/main.08a4790a.js"
   ]
 }
